@@ -56,8 +56,8 @@ project-root/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/fakhri-muzakki/day-1-stage-1-batch-65.git
-cd day-1-stage-1-batch-65
+git clone https://github.com/fakhri-muzakki/starter-express-hbs.git
+cd starter-express-hbs
 ```
 
 ---
